@@ -219,6 +219,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-train/
-
-test/
+best_model.pth
+tmp/
+solution.py
+submission.csv
