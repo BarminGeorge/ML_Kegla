@@ -223,4 +223,5 @@ __marimo__/
 best_model.pth
 tmp/
 solution.py
+evaluation.py
 submission.csv
