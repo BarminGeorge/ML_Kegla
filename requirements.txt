@@ -12,3 +12,4 @@ matplotlib
 tqdm
 jupytext
 ipykernel
+optuna
