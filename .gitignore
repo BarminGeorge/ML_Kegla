@@ -220,8 +220,12 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-best_model.pth
+# artifacts
+best_*.pth
+optuna_*.json
+ensemble_weights.npy
+submission.csv
+
 tmp/
 solution.py
 evaluation.py
-submission.csv
